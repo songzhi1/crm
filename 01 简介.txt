@@ -1,0 +1,31 @@
+C语言------unix-----------stallman（自由软件之父）GNU（gcc、c++、php）----------linus（linux）linux之父
+            AIX
+	    solaris
+            mac-unix
+
+
+linus：git、别bb、把代码给我看
+linux：内核开源的操作系统
+	发行版：centos
+
+google：
+	linux---android
+
+服务器的操作系统：linux/unix
+
+pc：person computer                   windows
+公司：服务器几十万、几百万	      linux
+
+
+测试学linux的目的？ 公司的服务器全部是linux/unix的，我为了能在服务器上部署我将要测试的系统，那么我要学否则没办法部署，也就
+意味着没办法测试
+
+
+在门道，我们讲解作为测试身份的你应该具备的linux的相关知识
+	命令、部署测试环境
+		命令：常用的必须记住的
+		部署环境：常见的你必须记住的
+		
+
+
+
